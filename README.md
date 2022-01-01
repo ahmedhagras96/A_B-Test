@@ -1,6 +1,6 @@
 ## A_B Test
 ### Discription
-**This project is a final project for the statistics part of the data science nano degree. It's about making test called A_B test it's used to compare between two hypothesis alternative hypothesis and the null hypothesis**
+**This project is a final project for the statistics part of the data science nano degree. It's about making test called A_B test it's used to compare between two hypothesis  (alternative hypothesis and the null hypothesis)**
 ### Target 
 **project here is about launching a new page in the website and we want to measure if the new page has an effect on conversion rate or not**
 ### Steps
